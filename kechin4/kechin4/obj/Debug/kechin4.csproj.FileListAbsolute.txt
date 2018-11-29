@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\kechin4\kechin4\bin\Debug\kechin4.exe.config
+C:\Users\Administrator\source\repos\kechin4\kechin4\bin\Debug\kechin4.exe
+C:\Users\Administrator\source\repos\kechin4\kechin4\bin\Debug\kechin4.pdb
+C:\Users\Administrator\source\repos\kechin4\kechin4\obj\Debug\kechin4.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\kechin4\kechin4\obj\Debug\kechin4.Properties.Resources.resources
+C:\Users\Administrator\source\repos\kechin4\kechin4\obj\Debug\kechin4.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\kechin4\kechin4\obj\Debug\kechin4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\kechin4\kechin4\obj\Debug\kechin4.exe
+C:\Users\Administrator\source\repos\kechin4\kechin4\obj\Debug\kechin4.pdb
+C:\Users\Administrator\source\repos\kechin4\kechin4\obj\Debug\kechin4.Register.resources
+C:\Users\Administrator\source\repos\kechin4\kechin4\obj\Debug\kechin4.Form3.resources
+C:\Users\Administrator\source\repos\kechin4\kechin4\obj\Debug\kechin4.OpenTimer.resources
+C:\Users\Administrator\source\repos\kechin4\kechin4\obj\Debug\kechin4.timeform.resources
