@@ -1,0 +1,57 @@
+﻿Installing assembly 'C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe
+Installing service TimeService...
+Service TimeService has been successfully installed.
+Creating EventLog source TimeService in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe
+Uninstalling assembly 'C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe
+Removing EventLog source TimeService.
+Service TimeService is being removed from the system...
+Service TimeService was successfully removed from the system.
+Attempt to stop service TimeService.
+Installing assembly 'C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe
+Installing service TimeService...
+Service TimeService has been successfully installed.
+Creating EventLog source TimeService in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe
+Uninstalling assembly 'C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe
+Removing EventLog source TimeService.
+Service TimeService is being removed from the system...
+Service TimeService was successfully removed from the system.
+Attempt to stop service TimeService.
+Installing assembly 'C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe
+Installing service TimeService...
+Service TimeService has been successfully installed.
+Creating EventLog source TimeService in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe

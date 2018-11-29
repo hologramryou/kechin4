@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\obj\Debug\FirstWindowsService.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\obj\Debug\FirstWindowsService.ProjectInstaller.resources
+C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\obj\Debug\FirstWindowsService.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\obj\Debug\FirstWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\obj\Debug\TimeService.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\obj\Debug\TimeService.TrustInfo.xml
+C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\obj\Debug\TimeService.exe
+C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\obj\Debug\TimeService.pdb
+C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe.config
+C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe.manifest
+C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.application
+C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.exe
+C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\bin\Debug\TimeService.pdb
+C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\obj\Debug\TimeService.exe.manifest
+C:\Users\Administrator\Desktop\WindowService-sample-master\FirstWindowsService\obj\Debug\TimeService.application
