@@ -185,7 +185,7 @@
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form3";
-            this.Text = "Form3";
+            this.Text = "s";
             this.TransparencyKey = System.Drawing.SystemColors.Control;
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

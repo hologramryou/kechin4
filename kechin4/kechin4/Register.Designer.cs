@@ -44,7 +44,7 @@
             this.Register_btn.BackgroundImage = global::kechin4.Properties.Resources.Btn;
             this.Register_btn.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.Register_btn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.Register_btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.Register_btn.Font = new System.Drawing.Font("SVN-Transformer", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.Register_btn.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.Register_btn.Location = new System.Drawing.Point(223, 282);
             this.Register_btn.Name = "Register_btn";
